@@ -1,0 +1,6 @@
+Using the Simba DynamoDB ODBC Driver to obtain data from Dynamo DB.
+Connection string is based in Qlikview Dashboard (.qvd)
+
+The license file is required in the System32 and the DLL install area for 64 Bit ODBC (expires 31/03/2021 as only a trial license)
+
+Schema is also attached for obtaining the data in the correct format from Dynamo DB
