@@ -1,0 +1,4 @@
+Using Qlikview for dashboard. 
+Not attempted using Git for QVDs before as it usually runs best with an SVN.
+
+ODBC Connection string and code to obtain Meter Readings is stored within dashboards reload script.
