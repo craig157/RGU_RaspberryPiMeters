@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:simba-com:SimbaLicenseSchema">
+  <Info version="1">
+    <ProductSKU>1153</ProductSKU>
+    <Product>Simba DynamoDB ODBC Driver</Product>
+    <Platform>Windows</Platform>
+    <ProductVersion>1</ProductVersion>
+    <LicenseType>Evaluation</LicenseType>
+    <LicenseCount>1</LicenseCount>
+    <CustomerID>craig.bannerman@xeretec.co.uk</CustomerID>
+    <Timestamp>2021-02-27T18:20:10.4797215-08:00</Timestamp>
+    <Expiry>2021-03-19</Expiry>
+  </Info>
+  <Key>Mei+AMAA4wBvALYA2gAEABiQ5rGk/QFs5wEAdtdlnGMCKjnj41c1vb3s4j5Qmjhl3biALGEphqHMtmgy5ugx9J5eipA+e2MOl/qZVxH37hRaUOy1B3+2YoKonCmiZ1R/36gXTGt5rFwQE4ES7atjmg0FJWBTJN4XFw8bkRAyt/ozQZ4wv1mqRSqfwpAUAcowkpE7CtlP9VSrdCYLgg2R3QXSxnQbfB9c8DJsz3lGuPBGTYYyWJGTz107cmNSbGzYUn2/k8BoLYVXDRmMIe+vfKcSPVDqrygS3/bvIxJiiKYxghLRLg8YvM9/7sPgG5NG9JyxE6B2nyXQ6KGnmg7YKVk62ZQ7mn50</Key>
+</License>
